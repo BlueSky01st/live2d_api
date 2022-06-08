@@ -3,7 +3,7 @@
 Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
 #### Path
 
-[https://cdn.jsdelivr.net/gh/BlueSky01st/live2d_api@latest/](https://cdn.jsdelivr.net/gh/BlueSky01st/live2d_api@latest/)
+[https://testingcf.jsdelivr.net/gh/BlueSky01st/live2d_api@latest/](https://testingcf.jsdelivr.net/gh/BlueSky01st/live2d_api@latest/)
 
 ### 特性
 
